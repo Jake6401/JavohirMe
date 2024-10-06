@@ -1,0 +1,2 @@
+# JavohirMe
+about myself
